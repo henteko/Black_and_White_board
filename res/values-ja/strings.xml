@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, mainActivity!</string>
+	<string name="app_name">Black and White board</string>
+	<string name="White">白</string>
+	<string name="Red">赤</string>
+	<string name="Blue">青</string>
+	<string name="Green">緑</string>
+	<string name="Yellow">黄</string>
+	<string name="Black">黒</string>
+	<string name="Eraser">消し板</string>
+	<string name="Change_Boald">板を変える</string>
+	<string name="Clear_OK">全て消します。よろしいですか?</string>
+	<string name="Yes">はい</string>
+	<string name="No">いいえ</string>
+	<string name="Save">保存が完了しました!!</string>
+	<string name="Finish">終了します。よろしいですか？</string>
+	<string name="Save_as">保存</string>
+	<string name="Redo">やり直し</string>
+	<string name="Reverse_Redo">逆やり直し</string>
+	<string name="Clear">全消し</string>
+	<string name="Change_Pen_num">ペンの太さ変更</string>
+	<string name="Change_OK_Pen_num">変更する</string>
+	<string name="Change_NO_Pen_num">キャンセル</string>
+	<string name="Not_Save">保存に失敗しました</string>
+	<string name="defo_black_board_name">黒板</string>
+	<string name="CANCEL">キャンセル</string>
+	<string name="OK">OK</string>
+	<string name="Add_tab">タブを追加する</string>
+	<string name="Black_board">黒板</string>
+	<string name="White_board">ホワイトボード</string>
+</resources>

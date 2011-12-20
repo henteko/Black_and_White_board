@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, mainActivity!</string>
+    <string name="app_name">Black and White board</string>
+    <string name="White">White</string>
+    <string name="Red">Red</string>
+    <string name="Blue">Blue</string>
+    <string name="Green">Green</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Black">Black</string>
+    <string name="Eraser">Eraser</string>
+    <string name="Change_Boald">Change Boald</string>
+    <string name="Clear_OK">Erase All. Are you ok?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Save">Saving completed!!</string>
+    <string name="Finish">Finish ok?</string>
+    <string name="Save_as">Save</string>
+    <string name="Redo">Redo</string>
+    <string name="Reverse_Redo">Reverse Redo</string>
+    <string name="Clear">Clear</string>
+    <string name="Change_Pen_num">Change pen thickness</string>
+    <string name="Change_OK_Pen_num">OK</string>
+    <string name="Change_NO_Pen_num">CANCEL</string>
+    <string name="Not_Save">But saved</string>
+    <string name="defo_black_board_name">Black board</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="OK">OK</string>
+    <string name="Add_tab">add tab</string>
+    <string name="Black_board">Black board</string>
+	<string name="White_board">White board</string>
+</resources>
